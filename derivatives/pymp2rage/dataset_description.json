@@ -1,0 +1,16 @@
+{
+    "BIDSVersion": "1.10.0",
+    "DatasetLinks": {
+        "raw": "/mnt/c/Users/tsalo/Documents/datasets/nibs",
+        "smriprep": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/smriprep"
+    },
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/PennLINC/nibs",
+            "Description": "Custom Python code combining ANTsPy and pymp2rage.",
+            "Name": "Custom code"
+        }
+    ],
+    "Name": "NIBS MP2RAGE Derivatives"
+}

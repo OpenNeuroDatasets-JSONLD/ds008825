@@ -1,0 +1,18 @@
+{
+    "BIDSVersion": "1.10.0",
+    "DatasetLinks": {
+        "megre": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/megre",
+        "pymp2rage": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/pymp2rage",
+        "raw": "/mnt/c/Users/tsalo/Documents/datasets/nibs",
+        "smriprep": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/smriprep"
+    },
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/PennLINC/nibs",
+            "Description": "Custom Python code computing the Q-Ratio (R1/T2*) following Kawaguchi et al. (2024), https://doi.org/10.1016/j.mri.2024.02.010",
+            "Name": "Custom code"
+        }
+    ],
+    "Name": "NIBS Q-Ratio Derivatives"
+}

@@ -1,0 +1,17 @@
+{
+    "BIDSVersion": "1.10.0",
+    "DatasetLinks": {
+        "mese": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/mese",
+        "raw": "/mnt/c/Users/tsalo/Documents/datasets/nibs",
+        "smriprep": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/smriprep"
+    },
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/PennLINC/nibs",
+            "Description": "Custom Python code combining ANTsPy and a nonlinear R2* fit.",
+            "Name": "Custom code"
+        }
+    ],
+    "Name": "NIBS MEGRE Derivatives"
+}

@@ -1,0 +1,18 @@
+{
+    "BIDSVersion": "1.10.0",
+    "DatasetLinks": {
+        "megre": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/megre",
+        "mese": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/mese",
+        "raw": "/mnt/c/Users/tsalo/Documents/datasets/nibs",
+        "smriprep": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/smriprep"
+    },
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/PennLINC/nibs",
+            "Description": "Custom Python code.",
+            "Name": "Custom code"
+        }
+    ],
+    "Name": "NIBS QSM Derivatives"
+}

@@ -1,0 +1,19 @@
+{
+    "BIDSVersion": "1.10.0",
+    "DatasetLinks": {
+        "ihmt": "/cbica/projects/nibs/derivatives/ihmt",
+        "qsiprep": "/cbica/projects/nibs/derivatives/qsiprep",
+        "qsirecon_noddi": "/cbica/projects/nibs/derivatives/qsirecon/derivatives/qsirecon-NODDI",
+        "raw": "/cbica/projects/nibs/dset",
+        "smriprep": "/cbica/projects/nibs/derivatives/smriprep"
+    },
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/PennLINC/nibs",
+            "Description": "Custom Python code. Per-subject splenium scaling inputs.",
+            "Name": "Custom code"
+        }
+    ],
+    "Name": "NIBS G-Ratio Derivatives"
+}
