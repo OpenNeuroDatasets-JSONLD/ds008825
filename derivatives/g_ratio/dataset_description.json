@@ -1,11 +1,11 @@
 {
     "BIDSVersion": "1.10.0",
     "DatasetLinks": {
-        "ihmt": "/cbica/projects/nibs/derivatives/ihmt",
-        "qsiprep": "/cbica/projects/nibs/derivatives/qsiprep",
-        "qsirecon_noddi": "/cbica/projects/nibs/derivatives/qsirecon/derivatives/qsirecon-NODDI",
-        "raw": "/cbica/projects/nibs/dset",
-        "smriprep": "/cbica/projects/nibs/derivatives/smriprep"
+        "ihmt": "doi:10.18112/openneuro.ds008825.v1.0.0:derivatives/ihmt",
+        "qsiprep": "doi:10.18112/openneuro.ds008825.v1.0.0:derivatives/qsiprep",
+        "qsirecon_noddi": "doi:10.18112/openneuro.ds008825.v1.0.0:derivatives/qsirecon/derivatives/qsirecon-NODDI",
+        "raw": "doi:10.18112/openneuro.ds008825.v1.0.0",
+        "smriprep": "doi:10.18112/openneuro.ds008825.v1.0.0:derivatives/smriprep"
     },
     "DatasetType": "derivative",
     "GeneratedBy": [
@@ -15,5 +15,5 @@
             "Name": "Custom code"
         }
     ],
-    "Name": "NIBS G-Ratio Derivatives"
+    "Name": "MIRROR G-Ratio Derivatives"
 }

@@ -1,8 +1,8 @@
 {
     "BIDSVersion": "1.10.0",
     "DatasetLinks": {
-        "raw": "/mnt/c/Users/tsalo/Documents/datasets/nibs",
-        "smriprep": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/smriprep"
+        "raw": "doi:10.18112/openneuro.ds008825.v1.0.0",
+        "smriprep": "doi:10.18112/openneuro.ds008825.v1.0.0:derivatives/smriprep"
     },
     "DatasetType": "derivative",
     "GeneratedBy": [
@@ -12,5 +12,5 @@
             "Name": "Custom code"
         }
     ],
-    "Name": "NIBS MESE Derivatives"
+    "Name": "MIRROR MESE Derivatives"
 }

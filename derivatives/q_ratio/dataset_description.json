@@ -1,10 +1,10 @@
 {
     "BIDSVersion": "1.10.0",
     "DatasetLinks": {
-        "megre": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/megre",
-        "pymp2rage": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/pymp2rage",
-        "raw": "/mnt/c/Users/tsalo/Documents/datasets/nibs",
-        "smriprep": "/mnt/c/Users/tsalo/Documents/datasets/nibs/derivatives/smriprep"
+        "megre": "doi:10.18112/openneuro.ds008825.v1.0.0:derivatives/megre",
+        "pymp2rage": "doi:10.18112/openneuro.ds008825.v1.0.0:derivatives/pymp2rage",
+        "raw": "doi:10.18112/openneuro.ds008825.v1.0.0",
+        "smriprep": "doi:10.18112/openneuro.ds008825.v1.0.0:derivatives/smriprep"
     },
     "DatasetType": "derivative",
     "GeneratedBy": [
@@ -14,5 +14,5 @@
             "Name": "Custom code"
         }
     ],
-    "Name": "NIBS Q-Ratio Derivatives"
+    "Name": "MIRROR Q-Ratio Derivatives"
 }
